@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase3</string>
+    <string name="title_activity_pantalla2">Pantalla2</string>
+    <string name="enviar">Enviar</string>
+    <string name="contraseña">Password</string>
+    <string name="usuario">Userr</string>
+    <string name="titulo">Titulo</string>
+</resources>
